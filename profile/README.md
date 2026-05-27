@@ -16,7 +16,7 @@
         <img
   src="https://img.shields.io/badge/Website-voiceinteractionprotocol.io-6366f1?style=flat-square" />
       </a>
-      <a href="https://github.com/orgs/voiceinteractionprotocol/docs/discussions">
+      <a href="https://github.com/voiceinteractionprotocol/docs/discussions">
         <img src="https://img.shields.io/badge/Discussions-Open-slate?style=flat-square" />
       </a>
     </p>
@@ -61,7 +61,7 @@
   This is an open effort. A standard only works if it is built with the people
   who will implement it.
 
-  - **Discuss** → [GitHub Discussions](https://github.com/orgs/voiceinteractionprotocol/docs/discussions)
+  - **Discuss** → [GitHub Discussions](https://github.com/voiceinteractionprotocol/docs/discussions)
   - **Contribute to the spec** → [docs repository](https://github.com/voiceinteractionprotocol/docs)
   - **Report an issue** → [open an issue](https://github.com/voiceinteractionprotocol/docs/issues)
 
